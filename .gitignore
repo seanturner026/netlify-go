@@ -1,5 +1,5 @@
-bin/**
-!bin/.keep
+functions/**
+!functions/.keep
 
-# Local Netlify folder
 .netlify
+.vscode
